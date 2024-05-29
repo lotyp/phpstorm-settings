@@ -1,0 +1,11 @@
+<application>
+  <component name="OrchideApplication">
+    <option name="orchideDefinitionFileInstalledVersion" value="20231213" />
+    <option name="orchideDefinitionFileLastDownloadName" value="orchide-definitions.jar" />
+    <option name="orchideDefinitionFileLastUpdateCheckDate" value="20240107-1502" />
+    <option name="orchideDefinitionFileLastUpdateCheckVersion" value="20231213" />
+    <option name="orchideDefinitionFilesLocation" value="$USER_HOME$/Settings/orchide" />
+    <option name="temporaryOrchideDefinitionFilesLocation" value="$USER_HOME$/Settings/orchide" />
+    <option name="hasEULAAccepted" value="true" />
+  </component>
+</application>
