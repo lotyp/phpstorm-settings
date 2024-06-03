@@ -17,6 +17,7 @@
       <w>buildkitd</w>
       <w>buildx</w>
       <w>butschster's</w>
+      <w>byrnedo</w>
       <w>codesee</w>
       <w>commitizen</w>
       <w>commitlint</w>
@@ -33,9 +34,12 @@
       <w>daemonized</w>
       <w>davidanson</w>
       <w>dbgp</w>
+      <w>dcgoss</w>
       <w>deployphp</w>
       <w>deptrac</w>
       <w>dgoss</w>
+      <w>dind</w>
+      <w>douglascamata</w>
       <w>drpsychick</w>
       <w>ehlo</w>
       <w>eloquent's</w>
@@ -65,6 +69,8 @@
       <w>ilike</w>
       <w>imagetools</w>
       <w>instantiator</w>
+      <w>ipam</w>
+      <w>iputils</w>
       <w>isready</w>
       <w>jevgenijsblaus</w>
       <w>larastan</w>
@@ -89,6 +95,7 @@
       <w>msmakouz</w>
       <w>nextjs</w>
       <w>nextra</w>
+      <w>nslookup</w>
       <w>opencontainers</w>
       <w>orlenko</w>
       <w>orm's</w>
@@ -106,10 +113,12 @@
       <w>portrainer</w>
       <w>postgis</w>
       <w>postgre</w>
+      <w>procps</w>
       <w>quickview</w>
       <w>registrator</w>
       <w>registrators</w>
       <w>reprotoinc</w>
+      <w>resolv</w>
       <w>rhysd</w>
       <w>roave</w>
       <w>roundrobin</w>
@@ -136,6 +145,7 @@
       <w>trpc</w>
       <w>træfik</w>
       <w>tsickert</w>
+      <w>tuln</w>
       <w>txcd</w>
       <w>typecheck</w>
       <w>uopz</w>
