@@ -11,6 +11,7 @@
       <w>automerge</w>
       <w>autoupdate</w>
       <w>axllent</w>
+      <w>befc</w>
       <w>breakline</w>
       <w>buggregator</w>
       <w>buildkit</w>
@@ -36,6 +37,7 @@
       <w>dbgp</w>
       <w>dcgoss</w>
       <w>denormalization</w>
+      <w>denormalizer</w>
       <w>deployphp</w>
       <w>deptrac</w>
       <w>dgoss</w>
