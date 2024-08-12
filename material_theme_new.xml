@@ -23,5 +23,11 @@
         <option name="selectedThemeName" value="ONE_DARK" />
       </MTThemeConfigState>
     </option>
+    <option name="titleBarState">
+      <MTTitleBarConfigState>
+        <option name="customTitle" value="{file}" />
+        <option name="useCustomTitle" value="true" />
+      </MTTitleBarConfigState>
+    </option>
   </component>
 </application>
