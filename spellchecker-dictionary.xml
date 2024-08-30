@@ -50,11 +50,13 @@
       <w>dind</w>
       <w>dockerization</w>
       <w>douglascamata</w>
+      <w>dpage</w>
       <w>drpsychick</w>
       <w>dscacheutil</w>
       <w>dynamicconfig</w>
       <w>ehlo</w>
       <w>eloquent's</w>
+      <w>enki</w>
       <w>enterpriseenrollment</w>
       <w>enterpriseregistration</w>
       <w>entrypoints</w>
@@ -103,6 +105,7 @@
       <w>mailpit</w>
       <w>markdownlint</w>
       <w>masq</w>
+      <w>maxdepth</w>
       <w>maxkb</w>
       <w>mbstring</w>
       <w>mdown</w>
@@ -134,6 +137,7 @@
       <w>potencier</w>
       <w>procps</w>
       <w>quickview</w>
+      <w>readyz</w>
       <w>rectorphp</w>
       <w>registrator</w>
       <w>registrators</w>
@@ -159,6 +163,7 @@
       <w>stefanzweifel</w>
       <w>styleci</w>
       <w>tableize</w>
+      <w>tctl</w>
       <w>temporalio</w>
       <w>terragrunt</w>
       <w>testbench</w>
