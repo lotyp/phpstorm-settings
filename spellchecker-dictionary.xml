@@ -139,6 +139,7 @@
       <w>postgis</w>
       <w>postgre</w>
       <w>potencier</w>
+      <w>privatekey</w>
       <w>procps</w>
       <w>quickview</w>
       <w>readyz</w>
@@ -153,6 +154,7 @@
       <w>roxblnfk</w>
       <w>scaffolder</w>
       <w>scrutinizer</w>
+      <w>selfsigned</w>
       <w>semibold</w>
       <w>serverapitrpcts</w>
       <w>setaf</w>
