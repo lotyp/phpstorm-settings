@@ -11,6 +11,7 @@
       <w>arounds</w>
       <w>asciinema</w>
       <w>aspmx</w>
+      <w>autoindex</w>
       <w>automerge</w>
       <w>autoupdate</w>
       <w>axllent</w>
@@ -64,6 +65,7 @@
       <w>ergebnis</w>
       <w>failover</w>
       <w>faketime</w>
+      <w>fastcgi</w>
       <w>fileinfo</w>
       <w>fira</w>
       <w>fqcn</w>
@@ -115,6 +117,8 @@
       <w>msmakouz</w>
       <w>nextjs</w>
       <w>nextra</w>
+      <w>nodelay</w>
+      <w>nopush</w>
       <w>nslookup</w>
       <w>opencontainers</w>
       <w>orderable</w>
@@ -161,6 +165,7 @@
       <w>softprops</w>
       <w>startswith</w>
       <w>stefanzweifel</w>
+      <w>stopsignal</w>
       <w>styleci</w>
       <w>tableize</w>
       <w>tctl</w>
